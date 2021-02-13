@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": false,
   "license": "MIT",
+  "homepage": "https://destructuring-bind.org/morning-show-balls",
   "dependencies": {
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
